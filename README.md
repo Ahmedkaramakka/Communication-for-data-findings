@@ -1,6 +1,7 @@
 # Communication-for-data-findings
 I chose a Prosper loan data then tried to clean and asked some questions trying to answer it through my analysis 
 This is a project of Data analyst Nanodegree about communicating your data findings
+this reository contains a file that represnt a presentation that opens in your browser , also a jupyter notebook file containg each step I did
 - the exploratory analysis was overwhelming there were 81 features(columns) associated with each loan
 I investigated the employment status duration and it was right skewed giving that maximum portion we have is 200 months that means that until 15 years of working there are some people applying for loans
 The prosperscore distribution was likely a normal distribution
